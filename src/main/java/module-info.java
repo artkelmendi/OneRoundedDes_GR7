@@ -3,6 +3,6 @@ module org.example.oneroundeddes_gr7 {
     requires javafx.fxml;
 
 
-    opens org.example.oneroundeddes_gr7 to javafx.fxml;
-    exports org.example.oneroundeddes_gr7;
+    opens Controllers to javafx.fxml;
+    exports app;
 }

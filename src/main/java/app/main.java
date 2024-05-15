@@ -17,7 +17,9 @@ public class main extends Application {
         scene.getStylesheets().add(getClass().getResource("/css/css.css").toExternalForm());
         stage.setTitle("DES Round");
         stage.setScene(scene);
+        stage.setResizable(false);
         stage.show();
+
     }
 
     public static void main(String[] args) {

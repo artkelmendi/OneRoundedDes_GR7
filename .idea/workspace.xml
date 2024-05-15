@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="391ac223-163f-42d2-84a2-c576ee147136" name="Changes" comment="Giving the code an idea on how it will look">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/css/css.css" afterDir="false" />
+    <list default="true" id="391ac223-163f-42d2-84a2-c576ee147136" name="Changes" comment="The logic and the css 60% finished.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Controllers/desroundController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Controllers/desroundController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/app/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/app/desround.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/app/desround.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/org/example/oneroundeddes_gr7/hello-view.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/css/css.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/css/css.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,12 +24,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "artkelmendi"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;artkelmendi&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -60,17 +56,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Application.main.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Arty/Desktop/FAKULLTET 2024/KNK/OneRoundedDes_GR7"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Arty/Desktop/FAKULLTET 2024/KNK/OneRoundedDes_GR7&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -127,7 +123,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715796511915</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="The logic and the css 60% finished.">
+      <option name="closed" value="true" />
+      <created>1715801667432</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1715801667432</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -135,6 +139,7 @@
     <MESSAGE value="Creating Repository" />
     <MESSAGE value="Testing//" />
     <MESSAGE value="Giving the code an idea on how it will look" />
-    <option name="LAST_COMMIT_MESSAGE" value="Giving the code an idea on how it will look" />
+    <MESSAGE value="The logic and the css 60% finished." />
+    <option name="LAST_COMMIT_MESSAGE" value="The logic and the css 60% finished." />
   </component>
 </project>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="545.0" prefWidth="772.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Controllers.desroundController">
+   <children>
+      <AnchorPane prefHeight="545.0" prefWidth="772.0" styleClass="main-form" stylesheets="@../css/css.css" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.topAnchor="0.0">
+         <children>
+            <AnchorPane layoutY="26.0" prefHeight="95.0" prefWidth="773.0" styleClass="left-form" stylesheets="@../css/css.css" AnchorPane.rightAnchor="0.0">
+               <children>
+                  <Text fill="WHITE" layoutX="142.0" layoutY="65.0" strokeType="OUTSIDE" strokeWidth="0.0" text="One Rounded Des">
+                     <font>
+                        <Font name="Montserrat SemiBold" size="52.0" />
+                     </font>
+                  </Text>
+               </children></AnchorPane>
+            <Label layoutX="101.0" layoutY="197.0" stylesheets="@../css/css.css" text="Left Half (L):" />
+            <TextField fx:id="leftHalfField" layoutX="183.0" layoutY="189.0" promptText="Left input" stylesheets="@../css/css.css" />
+            <Label layoutX="413.0" layoutY="197.0" stylesheets="@../css/css.css" text="Right Half (R):" />
+            <TextField fx:id="rightHalfField" layoutX="500.0" layoutY="189.0" promptText="Right Half" stylesheets="@../css/css.css" />
+            <Label layoutX="352.0" layoutY="244.0" stylesheets="@../css/css.css" text="Subkey (K):">
+               <font>
+                  <Font name="Montserrat SemiBold" size="12.0" />
+               </font>
+            </Label>
+            <TextField fx:id="subkeyField" layoutX="303.0" layoutY="269.0" promptText="SubKey (K)" stylesheets="@../css/css.css" />
+            <Button layoutX="270.0" layoutY="341.0" onAction="#computeDESRound" prefHeight="42.0" prefWidth="234.0" styleClass="custom-button" stylesheets="@../css/css.css" text="Compute">
+               <font>
+                  <Font name="Montserrat SemiBold" size="12.0" />
+               </font>
+            </Button>
+            <AnchorPane fx:id="resultPane" layoutY="434.0" prefHeight="75.0" prefWidth="773.0" styleClass="result-form" stylesheets="@../css/css.css" visible="false">
+               <children>
+                  <Text layoutX="30.0" layoutY="29.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Left Half(L'):" textAlignment="RIGHT" />
+                  <Text layoutX="19.0" layoutY="57.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Right Half(R'):" textAlignment="RIGHT" />
+                  <Text fx:id="leftOutputText" layoutX="107.0" layoutY="29.0" strokeType="OUTSIDE" strokeWidth="0.0" textAlignment="RIGHT" />
+                  <Text fx:id="rightOutputText" layoutX="107.0" layoutY="58.0" strokeType="OUTSIDE" strokeWidth="0.0" textAlignment="RIGHT" />
+               </children>
+            </AnchorPane>
+         </children>
+      </AnchorPane>
+   </children>
+</AnchorPane>

@@ -4,16 +4,43 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="391ac223-163f-42d2-84a2-c576ee147136" name="Changes" comment="Creating Repository">
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/oneroundeddes_gr7/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/oneroundeddes_gr7/HelloApplication.java" afterDir="false" />
+    <list default="true" id="391ac223-163f-42d2-84a2-c576ee147136" name="Changes" comment="Giving the code an idea on how it will look">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/css/css.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Controllers/desroundController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Controllers/desroundController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/app/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/app/desround.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/app/desround.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/org/example/oneroundeddes_gr7/hello-view.fxml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "artkelmendi"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="73afd7ec-872b-4f05-a0d8-a7bbd312c81e" />
+        <option name="url" value="https://github.com/artkelmendi/OneRoundedDes.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -36,6 +63,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -75,12 +103,38 @@
       <option name="project" value="LOCAL" />
       <updated>1715794612677</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Creating Repository">
+      <option name="closed" value="true" />
+      <created>1715794661634</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1715794661634</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Testing//">
+      <option name="closed" value="true" />
+      <created>1715794856658</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1715794856658</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Giving the code an idea on how it will look">
+      <option name="closed" value="true" />
+      <created>1715796511915</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1715796511915</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Creating Repository" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creating Repository" />
+    <MESSAGE value="Testing//" />
+    <MESSAGE value="Giving the code an idea on how it will look" />
+    <option name="LAST_COMMIT_MESSAGE" value="Giving the code an idea on how it will look" />
   </component>
 </project>

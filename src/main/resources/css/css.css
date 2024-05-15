@@ -1,0 +1,60 @@
+.text-field {
+    -fx-background-color: #f0f0f0;
+    -fx-text-fill: #333333;
+    -fx-font-size: 14px;
+    -fx-padding: 5px;
+    -fx-border-color: #cccccc;
+    -fx-border-radius: 5px;
+    -fx-background-radius: 5px;
+}
+
+
+.text-field:focused {
+    -fx-border-color: #66afe9;
+    -fx-background-color: #ffffff;
+}
+
+
+.text-field .text {
+    -fx-fill: #999999;
+}
+
+
+.text-field.invalid {
+    -fx-border-color: #ff0000;
+}
+
+.custom-button {
+    -fx-background-color: #0070f3;
+    -fx-text-fill: white;
+    -fx-font-weight: 400;
+    -fx-font-size: 16px;
+    -fx-padding: 0 56px;
+    -fx-pref-height: 45px;
+    -fx-alignment: center;
+    -fx-border-radius: 7px;
+    -fx-background-radius: 7px;
+    -fx-cursor: hand;
+    -fx-effect: dropshadow(gaussian, rgba(0, 118, 255, 0.04), 4, 0, 0, 14);
+    -fx-transition: background 0.2s ease, color 0.2s ease, effect 0.2s ease;
+}
+.custom-button:hover {
+    -fx-background-color: rgba(0, 118, 255, 0.9);
+    -fx-effect: dropshadow(gaussian, rgba(0, 118, 255, 0.1), 6, 0, 0, 20);
+}
+.custom-button:pressed {
+    -fx-background-color: rgba(0, 118, 255, 0.9);
+    -fx-effect: innershadow(gaussian, rgba(0, 118, 255, 0.23), 6, 0, 0, 20);
+}
+.left-form {
+    -fx-background-color: #959edc;
+}
+.main-form{
+    -fx-background-color: #de1e2ea;
+}
+.result-form{
+    -fx-background-color: #daddec;
+}
+.root {
+    -fx-font-family: 'Montserrat Medium', sans-serif;
+}

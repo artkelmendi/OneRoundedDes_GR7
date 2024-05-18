@@ -1,5 +1,4 @@
 package app;
-
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Scene;
@@ -7,6 +6,7 @@ import javafx.scene.layout.AnchorPane;
 import javafx.stage.Stage;
 
 import java.io.IOException;
+import java.util.Objects;
 
 public class main extends Application {
     @Override
@@ -14,12 +14,11 @@ public class main extends Application {
         FXMLLoader fxmlLoader = new FXMLLoader(main.class.getResource("/app/desround.fxml"));
         AnchorPane root = fxmlLoader.load();
         Scene scene = new Scene(root, root.getPrefWidth(), root.getPrefHeight());
-        scene.getStylesheets().add(getClass().getResource("/css/css.css").toExternalForm());
+        scene.getStylesheets().add(Objects.requireNonNull(getClass().getResource("/css/css.css")).toExternalForm());
         stage.setTitle("DES Round");
         stage.setScene(scene);
         stage.setResizable(false);
         stage.show();
-
     }
 
     public static void main(String[] args) {

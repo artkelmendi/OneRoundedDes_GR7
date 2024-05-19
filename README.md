@@ -56,3 +56,24 @@ To set up and run the project locally, follow these steps:
 2. **Navigate to DES Round Page**: Click the "Start" button to navigate to the DES round input page.
 3. **Enter Inputs**: Provide the left half (32 bits), right half (32 bits), and subkey (48 bits) in the respective fields.
 4. **Compute DES Round**: Click the "Compute" button to perform the DES round computation. The results will be displayed on the screen.
+
+## Code Details
+
+### Main Application (`main.java`)
+The entry point of the application, responsible for launching the JavaFX application and initializing the welcome page.
+
+```java
+package app;
+import javafx.application.Application;
+import javafx.stage.Stage;
+
+public class main extends Application {
+    @Override
+    public void start(Stage stage) throws Exception {
+        Navigator.navigate(stage, Navigator.WELCOMING_PAGE);
+    }
+
+    public static void main(String[] args) {
+        launch(args);
+    }
+}

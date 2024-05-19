@@ -1,17 +1,36 @@
 package Controllers;
 
-import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
+import javafx.fxml.FXMLLoader;
+import javafx.scene.Parent;
+import javafx.scene.Scene;
 import javafx.scene.control.Button;
-import app.Navigator;
+import javafx.stage.Stage;
 
-public class WelcomeController {
+import java.io.IOException;
+public class welcomeController {
     @FXML
-    private Button getStartedButton;
+    private Button startButton;
 
     @FXML
-    private void handleGetStartedButtonClick(ActionEvent event) {
-        // Navigate to the DES round page
-        Navigator.navigate(event, Navigator.DES_ROUND_PAGE);
+    protected void startApplication() {
+        try {
+            // Load main page
+            FXMLLoader fxmlLoader = new FXMLLoader(getClass().getResource("/app/desround.fxml"));
+            Parent root = fxmlLoader.load();
+            Stage stage = (Stage) startButton.getScene().getWindow();
+            stage.setScene(new Scene(root));
+            stage.setTitle("DES Round");
+            stage.setResizable(false);
+            stage.show();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
     }
+
+    @FXML
+    protected void initialize() {
+        // Initialize method (optional)
+    }
+
 }

@@ -13,7 +13,7 @@
          <children>
             <AnchorPane layoutY="26.0" prefHeight="95.0" prefWidth="773.0" styleClass="left-form" stylesheets="@../css/css.css" AnchorPane.rightAnchor="0.0">
                <children>
-                  <Text fill="WHITE" layoutX="142.0" layoutY="65.0" strokeType="OUTSIDE" strokeWidth="0.0" text="One Rounded Des">
+                  <Text fill="WHITE" layoutX="142.0" layoutY="65.0" strokeType="OUTSIDE" strokeWidth="0.0" text="One Round DES">
                      <font>
                         <Font name="Montserrat SemiBold" size="52.0" />
                      </font>

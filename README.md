@@ -43,3 +43,16 @@ To set up and run the project locally, follow these steps:
     cd des-round-simulator
     ```
 
+2. **Open in IDE**: Open the project in an IDE that supports Java and JavaFX (e.g., IntelliJ IDEA or Eclipse).
+
+3. **Add JavaFX Library**: Ensure that your IDE is configured with the JavaFX library. You can download it from the [official website](https://openjfx.io/).
+
+4. **Run the Application**:
+- Locate the `main` class in the `app` package.
+- Run the `main` class.
+
+## Usage
+1. **Start the Application**: Launch the application, and you will be presented with the welcome page.
+2. **Navigate to DES Round Page**: Click the "Start" button to navigate to the DES round input page.
+3. **Enter Inputs**: Provide the left half (32 bits), right half (32 bits), and subkey (48 bits) in the respective fields.
+4. **Compute DES Round**: Click the "Compute" button to perform the DES round computation. The results will be displayed on the screen.

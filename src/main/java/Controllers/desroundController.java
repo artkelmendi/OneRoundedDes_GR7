@@ -133,23 +133,23 @@ public class desroundController {
         String R = rightHalfField.getText();
         String K = subkeyField.getText();
 
-        // Check input lengths
+        // Check input lengths and binary format
         boolean hasError = false;
-        if (L.length() != 32) {
+        if (L.length() != 32 || !isBinary(L)) {
             leftHalfField.getStyleClass().add("invalid");
-            leftErrorText.setText("Left half must be 32 bits.");
+            leftErrorText.setText("Left half must be a 32-bit binary value.");
             leftErrorPane.setVisible(true);
             hasError = true;
         }
-        if (R.length() != 32) {
+        if (R.length() != 32 || !isBinary(R)) {
             rightHalfField.getStyleClass().add("invalid");
-            rightErrorText.setText("Right half must be 32 bits.");
+            rightErrorText.setText("Right half must be a 32-bit binary value.");
             rightErrorPane.setVisible(true);
             hasError = true;
         }
-        if (K.length() != 48) {
+        if (K.length() != 48 || !isBinary(K)) {
             subkeyField.getStyleClass().add("invalid");
-            subkeyErrorText.setText("Subkey must be 48 bits.");
+            subkeyErrorText.setText("Subkey must be a 48-bit binary value.");
             subkeyErrorPane.setVisible(true);
             hasError = true;
         }
@@ -194,6 +194,10 @@ public class desroundController {
             subkeyErrorPane.setVisible(true);
             resultPane.setVisible(false);
         }
+    }
+
+    private boolean isBinary(String input) {
+        return input.matches("[01]+");
     }
 
     private int fFunction(int rightHalf, long subkey) {

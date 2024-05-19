@@ -26,7 +26,7 @@ The DES Round Simulator is a JavaFX-based application designed to simulate a sin
 
 ## Features
 - **Graphical User Interface**: Easy-to-use interface for input and output of DES round values.
-- **Input Validation**: Ensures that the inputs for the left half, right half, and subkey meet the required bit lengths.
+- **Input Validation**: Ensures that the inputs for the left half, right half, and subkey meet the required bit lengths and the required binary format.
 - **DES Round Computation**: Simulates the expansion, substitution, and permutation steps of a DES round.
 
 ## Project Structure

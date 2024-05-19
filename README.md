@@ -33,6 +33,7 @@ The DES Round Simulator is a JavaFX-based application designed to simulate a sin
 The project consists of the following main components:
 - `app`: Contains the main application entry point and the navigator for switching between scenes.
 - `Controllers`: Contains the controllers for handling user interactions and logic for the DES round and welcome page.
+- `resources`: Contains the FXML files that are used to design the program's GUI.
 
 ## Installation
 To set up and run the project locally, follow these steps:

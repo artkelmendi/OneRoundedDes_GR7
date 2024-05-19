@@ -1,0 +1,66 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"391ac223-163f-42d2-84a2-c576ee147136\" name=\"Changes\" comment=\"Changes in the fxml and in the controllers.\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/main/java/app/main.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/main/java/app/main.java\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"FxmlFile\" />\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\">{\r\n  &quot;lastFilter&quot;: {\r\n    &quot;state&quot;: &quot;OPEN&quot;,\r\n    &quot;assignee&quot;: &quot;artkelmendi&quot;\r\n  }\r\n}</component>\r\n  <component name=\"GithubPullRequestsUISettings\">\r\n    <option name=\"selectedUrlAndAccountId\">\r\n      <UrlAndAccount>\r\n        <option name=\"accountId\" value=\"73afd7ec-872b-4f05-a0d8-a7bbd312c81e\" />\r\n        <option name=\"url\" value=\"https://github.com/artkelmendi/OneRoundedDes.git\" />\r\n      </UrlAndAccount>\r\n    </option>\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 1\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2gVb1DyisKRGaObu3lU0kdTo7d2\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,\r\n    &quot;Application.main.executor&quot;: &quot;Run&quot;,\r\n    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;git-widget-placeholder&quot;: &quot;master&quot;,\r\n    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,\r\n    &quot;last_opened_file_path&quot;: &quot;C:/Users/Artin/Documents/GitHub/OneRoundedDes_GR7&quot;,\r\n    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,\r\n    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,\r\n    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;\r\n  }\r\n}</component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"391ac223-163f-42d2-84a2-c576ee147136\" name=\"Changes\" comment=\"\" />\r\n      <created>1715785476743</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1715785476743</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"Creating Repository\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1715785645286</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1715785645286</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"Creating Repository\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1715794612677</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1715794612677</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"Creating Repository\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1715794661634</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1715794661634</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"Testing//\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1715794856658</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1715794856658</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"Giving the code an idea on how it will look\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1715796511915</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1715796511915</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00006\" summary=\"The logic and the css 60% finished.\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1715801667432</created>\r\n      <option name=\"number\" value=\"00006\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1715801667432</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00007\" summary=\"Added Welcoming Page\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1716077925081</created>\r\n      <option name=\"number\" value=\"00007\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1716077925081</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00008\" summary=\"Added Welcoming Page\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1716078336942</created>\r\n      <option name=\"number\" value=\"00008\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00008\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1716078336942</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00009\" summary=\"Added Navigator\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1716078710150</created>\r\n      <option name=\"number\" value=\"00009\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00009\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1716078710150</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00010\" summary=\"Finished README.md file\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1716120903267</created>\r\n      <option name=\"number\" value=\"00010\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00010\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1716120903267</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00011\" summary=\"Changes in the fxml and in the controllers.\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1716133770052</created>\r\n      <option name=\"number\" value=\"00011\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00011\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1716133770052</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"12\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <option name=\"ADD_EXTERNAL_FILES_SILENTLY\" value=\"true\" />\r\n    <MESSAGE value=\"Creating Repository\" />\r\n    <MESSAGE value=\"Testing//\" />\r\n    <MESSAGE value=\"Giving the code an idea on how it will look\" />\r\n    <MESSAGE value=\"The logic and the css 60% finished.\" />\r\n    <MESSAGE value=\"Added Welcoming Page\" />\r\n    <MESSAGE value=\"Added Navigator\" />\r\n    <MESSAGE value=\"Finished README.md file\" />\r\n    <MESSAGE value=\"Changes in the fxml and in the controllers.\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Changes in the fxml and in the controllers.\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 828a001fe2b39bcadb3ebc328023746840729600)
++++ b/.idea/workspace.xml	(date 1716136762693)
+@@ -4,10 +4,7 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="391ac223-163f-42d2-84a2-c576ee147136" name="Changes" comment="Changes in the fxml and in the controllers.">
+-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/main/java/app/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/main.java" afterDir="false" />
+-    </list>
++    <list default="true" id="391ac223-163f-42d2-84a2-c576ee147136" name="Changes" comment="Changes" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -22,6 +19,7 @@
+     </option>
+   </component>
+   <component name="Git.Settings">
++    <option name="PUSH_AUTO_UPDATE" value="true" />
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
+   <component name="GitHubPullRequestSearchHistory">{
+@@ -163,7 +161,23 @@
+       <option name="project" value="LOCAL" />
+       <updated>1716133770052</updated>
+     </task>
+-    <option name="localTasksCounter" value="12" />
++    <task id="LOCAL-00012" summary="Merge remote-tracking branch 'github/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;src/main/java/Controllers/desroundController.java">
++      <option name="closed" value="true" />
++      <created>1716136682052</created>
++      <option name="number" value="00012" />
++      <option name="presentableId" value="LOCAL-00012" />
++      <option name="project" value="LOCAL" />
++      <updated>1716136682052</updated>
++    </task>
++    <task id="LOCAL-00013" summary="Changes">
++      <option name="closed" value="true" />
++      <created>1716136739472</created>
++      <option name="number" value="00013" />
++      <option name="presentableId" value="LOCAL-00013" />
++      <option name="project" value="LOCAL" />
++      <updated>1716136739472</updated>
++    </task>
++    <option name="localTasksCounter" value="14" />
+     <servers />
+   </component>
+   <component name="Vcs.Log.Tabs.Properties">
+@@ -187,6 +201,8 @@
+     <MESSAGE value="Added Navigator" />
+     <MESSAGE value="Finished README.md file" />
+     <MESSAGE value="Changes in the fxml and in the controllers." />
+-    <option name="LAST_COMMIT_MESSAGE" value="Changes in the fxml and in the controllers." />
++    <MESSAGE value="Merge remote-tracking branch 'github/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;src/main/java/Controllers/desroundController.java" />
++    <MESSAGE value="Changes" />
++    <option name="LAST_COMMIT_MESSAGE" value="Changes" />
+   </component>
+ </project>
+\ No newline at end of file

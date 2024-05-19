@@ -18,7 +18,8 @@
                         <Font name="Montserrat SemiBold" size="52.0" />
                      </font>
                   </Text>
-               </children></AnchorPane>
+               </children>
+            </AnchorPane>
             <Label layoutX="101.0" layoutY="197.0" stylesheets="@../css/css.css" text="Left Half (L):" />
             <TextField fx:id="leftHalfField" layoutX="183.0" layoutY="189.0" promptText="Left input" stylesheets="@../css/css.css" />
             <Label layoutX="413.0" layoutY="197.0" stylesheets="@../css/css.css" text="Right Half (R):" />

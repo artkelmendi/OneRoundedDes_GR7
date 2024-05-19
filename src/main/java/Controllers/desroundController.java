@@ -1,7 +1,6 @@
 package Controllers;
 
 import javafx.fxml.FXML;
-import javafx.scene.control.Label;
 import javafx.scene.control.TextField;
 import javafx.scene.layout.AnchorPane;
 import javafx.scene.text.Text;
@@ -15,14 +14,19 @@ public class desroundController {
     @FXML
     private TextField subkeyField;
     @FXML
-    private Text leftOutputText; // Changed to Text
+    private Text leftOutputText;
     @FXML
-    private Text rightOutputText; // Changed to Text
+    private Text rightOutputText;
     @FXML
-    private AnchorPane resultPane; // Result AnchorPane
+    private AnchorPane resultPane;
 
     @FXML
     protected void computeDESRound() {
+        // Reset styles
+        leftHalfField.getStyleClass().remove("invalid");
+        rightHalfField.getStyleClass().remove("invalid");
+        subkeyField.getStyleClass().remove("invalid");
+
         // Read input values
         String L = leftHalfField.getText();
         String R = rightHalfField.getText();
@@ -41,11 +45,11 @@ public class desroundController {
             int newLeft = rightHalf;
             int newRight = leftHalf ^ fOutput;
 
-            // Convert results back to binary strings
-            String newLeftStr = String.format("%32s", Integer.toBinaryString(newLeft)).replaceAll(" ", "0");
-            String newRightStr = String.format("%32s", Integer.toBinaryString(newRight)).replaceAll(" ", "0");
+            // Convert results back to 32-bit binary strings
+            String newLeftStr = String.format("%32s", Integer.toBinaryString(newLeft)).replace(' ', '0');
+            String newRightStr = String.format("%32s", Integer.toBinaryString(newRight)).replace(' ', '0');
 
-            // Update the output labels
+            // Update the output texts
             leftOutputText.setText(newLeftStr);
             rightOutputText.setText(newRightStr);
 

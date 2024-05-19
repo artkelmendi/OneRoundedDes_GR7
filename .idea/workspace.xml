@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="391ac223-163f-42d2-84a2-c576ee147136" name="Changes" comment="Finished README.md file">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Controllers/desroundController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Controllers/desroundController.java" afterDir="false" />
-    </list>
+    <list default="true" id="391ac223-163f-42d2-84a2-c576ee147136" name="Changes" comment="Finished README.md file" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,7 +62,7 @@
     "Application.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Reverting in master",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/Artin/Documents/GitHub/OneRoundedDes_GR7",
     "project.structure.last.edited": "Project",

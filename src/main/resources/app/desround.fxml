@@ -6,21 +6,19 @@
 <?import javafx.scene.layout.AnchorPane?>
 <?import javafx.scene.text.Font?>
 <?import javafx.scene.text.Text?>
-<?import javafx.scene.layout.VBox?>
 
 <AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="545.0" prefWidth="772.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Controllers.desroundController">
    <children>
-      <AnchorPane prefHeight="545.0" prefWidth="772.0" styleClass="main-form" stylesheets="@../css/css.css" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+      <AnchorPane prefHeight="545.0" prefWidth="772.0" styleClass="main-form" stylesheets="@../css/css.css" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.topAnchor="0.0">
          <children>
-            <AnchorPane layoutY="26.0" prefHeight="95.0" prefWidth="773.0" styleClass="left-form" stylesheets="@../css/css.css">
+            <AnchorPane layoutY="26.0" prefHeight="95.0" prefWidth="773.0" styleClass="left-form" stylesheets="@../css/css.css" AnchorPane.rightAnchor="0.0">
                <children>
-                  <Text fill="WHITE" layoutX="142.0" layoutY="65.0" strokeType="OUTSIDE" strokeWidth="0.0" text="One Round DES">
+                  <Text fill="WHITE" layoutX="142.0" layoutY="65.0" strokeType="OUTSIDE" strokeWidth="0.0" text="One Rounded Des">
                      <font>
                         <Font name="Montserrat SemiBold" size="52.0" />
                      </font>
                   </Text>
-               </children>
-            </AnchorPane>
+               </children></AnchorPane>
             <Label layoutX="101.0" layoutY="197.0" stylesheets="@../css/css.css" text="Left Half (L):" />
             <TextField fx:id="leftHalfField" layoutX="183.0" layoutY="189.0" promptText="Left input" stylesheets="@../css/css.css" />
             <Label layoutX="413.0" layoutY="197.0" stylesheets="@../css/css.css" text="Right Half (R):" />
@@ -38,17 +36,12 @@
             </Button>
             <AnchorPane fx:id="resultPane" layoutY="434.0" prefHeight="75.0" prefWidth="773.0" styleClass="result-form" stylesheets="@../css/css.css" visible="false">
                <children>
-                  <VBox layoutX="30.0" layoutY="29.0" spacing="10">
-                     <Label text="Left Half(L'):"/>
-                     <Text fx:id="leftOutputText" textAlignment="RIGHT" />
-                  </VBox>
-                  <VBox layoutX="19.0" layoutY="57.0" spacing="10">
-                     <Label text="Right Half(R'):"/>
-                     <Text fx:id="rightOutputText" textAlignment="RIGHT" />
-                  </VBox>
+                  <Text layoutX="30.0" layoutY="29.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Left Half(L'):" textAlignment="RIGHT" />
+                  <Text layoutX="19.0" layoutY="57.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Right Half(R'):" textAlignment="RIGHT" />
+                  <Text fx:id="leftOutputText" layoutX="107.0" layoutY="29.0" strokeType="OUTSIDE" strokeWidth="0.0" textAlignment="RIGHT" />
+                  <Text fx:id="rightOutputText" layoutX="107.0" layoutY="58.0" strokeType="OUTSIDE" strokeWidth="0.0" textAlignment="RIGHT" />
                </children>
             </AnchorPane>
-
          </children>
       </AnchorPane>
    </children>

@@ -6,10 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="391ac223-163f-42d2-84a2-c576ee147136" name="Changes" comment="Finished README.md file">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Controllers/WelcomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Controllers/WelcomeController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/app/Navigator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/Navigator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/app/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/app/Welcome.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/app/Welcome.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Controllers/desroundController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Controllers/desroundController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +65,7 @@
     "Application.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "Reverting in master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/Artin/Documents/GitHub/OneRoundedDes_GR7",
     "project.structure.last.edited": "Project",

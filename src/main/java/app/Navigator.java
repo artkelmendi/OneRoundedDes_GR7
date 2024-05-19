@@ -9,7 +9,7 @@ import javafx.stage.Stage;
 import java.io.IOException;
 
 public class Navigator {
-        public static final String WELCOMING_PAGE = "Welcome.fxml";
+        public static final String WELCOMING_PAGE = "welcome.fxml";
         public static final String DES_ROUND_PAGE = "desround.fxml";
 
         public static void navigate(Stage stage, String page){

@@ -10,7 +10,7 @@ public class main extends Application {
     public void start(Stage stage) throws Exception {
         // Load Welcome Page initially
         Navigator.navigate(stage, Navigator.WELCOMING_PAGE);
-        stage.setResizable(false);
+        stage.setResizable(false); //
     }
 
     public static void main(String[] args) {

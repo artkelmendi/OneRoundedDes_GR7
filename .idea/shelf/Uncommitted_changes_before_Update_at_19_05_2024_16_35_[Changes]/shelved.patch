@@ -1,0 +1,115 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"391ac223-163f-42d2-84a2-c576ee147136\" name=\"Changes\" comment=\"Finished README.md file\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/main/java/Controllers/WelcomeController.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/main/java/Controllers/WelcomeController.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/main/java/app/main.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/main/java/app/main.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/main/resources/app/Welcome.fxml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/main/resources/app/Welcome.fxml\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"FxmlFile\" />\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\">{\r\n  &quot;lastFilter&quot;: {\r\n    &quot;state&quot;: &quot;OPEN&quot;,\r\n    &quot;assignee&quot;: &quot;artkelmendi&quot;\r\n  }\r\n}</component>\r\n  <component name=\"GithubPullRequestsUISettings\">\r\n    <option name=\"selectedUrlAndAccountId\">\r\n      <UrlAndAccount>\r\n        <option name=\"accountId\" value=\"73afd7ec-872b-4f05-a0d8-a7bbd312c81e\" />\r\n        <option name=\"url\" value=\"https://github.com/artkelmendi/OneRoundedDes.git\" />\r\n      </UrlAndAccount>\r\n    </option>\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"MavenImportPreferences\">\r\n    <option name=\"generalSettings\">\r\n      <MavenGeneralSettings>\r\n        <option name=\"mavenHome\" value=\"Use Maven wrapper\" />\r\n      </MavenGeneralSettings>\r\n    </option>\r\n  </component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 1\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2gVb1DyisKRGaObu3lU0kdTo7d2\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,\r\n    &quot;Application.main.executor&quot;: &quot;Run&quot;,\r\n    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;git-widget-placeholder&quot;: &quot;master&quot;,\r\n    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,\r\n    &quot;last_opened_file_path&quot;: &quot;C:/Users/Arty/Desktop/FAKULLTET 2024/KNK/OneRoundedDes_GR7&quot;\r\n  }\r\n}</component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"jdk-22-openjdk-22-3183f394aec4-bad0321e\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"391ac223-163f-42d2-84a2-c576ee147136\" name=\"Changes\" comment=\"\" />\r\n      <created>1715785476743</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1715785476743</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"Creating Repository\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1715785645286</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1715785645286</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"Creating Repository\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1715794612677</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1715794612677</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"Creating Repository\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1715794661634</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1715794661634</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"Testing//\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1715794856658</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1715794856658</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"Giving the code an idea on how it will look\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1715796511915</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1715796511915</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00006\" summary=\"The logic and the css 60% finished.\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1715801667432</created>\r\n      <option name=\"number\" value=\"00006\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1715801667432</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00007\" summary=\"Added Welcoming Page\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1716077925081</created>\r\n      <option name=\"number\" value=\"00007\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1716077925081</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00008\" summary=\"Added Welcoming Page\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1716078336942</created>\r\n      <option name=\"number\" value=\"00008\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00008\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1716078336942</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00009\" summary=\"Added Navigator\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1716078710150</created>\r\n      <option name=\"number\" value=\"00009\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00009\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1716078710150</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00010\" summary=\"Finished README.md file\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1716120903267</created>\r\n      <option name=\"number\" value=\"00010\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00010\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1716120903267</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"11\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <option name=\"ADD_EXTERNAL_FILES_SILENTLY\" value=\"true\" />\r\n    <MESSAGE value=\"Creating Repository\" />\r\n    <MESSAGE value=\"Testing//\" />\r\n    <MESSAGE value=\"Giving the code an idea on how it will look\" />\r\n    <MESSAGE value=\"The logic and the css 60% finished.\" />\r\n    <MESSAGE value=\"Added Welcoming Page\" />\r\n    <MESSAGE value=\"Added Navigator\" />\r\n    <MESSAGE value=\"Finished README.md file\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Finished README.md file\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 1b7d2340b05e130b7b8add01bf012c2e242cbcff)
++++ b/.idea/workspace.xml	(date 1716129273704)
+@@ -4,12 +4,7 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="391ac223-163f-42d2-84a2-c576ee147136" name="Changes" comment="Finished README.md file">
+-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/main/java/Controllers/WelcomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Controllers/WelcomeController.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/main/java/app/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/main.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/main/resources/app/Welcome.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/app/Welcome.fxml" afterDir="false" />
+-    </list>
++    <list default="true" id="391ac223-163f-42d2-84a2-c576ee147136" name="Changes" comment="Finished README.md file" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+Index: src/main/resources/app/Welcome.fxml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n\r\n<?import javafx.scene.control.Button?>\r\n<?import javafx.scene.layout.AnchorPane?>\r\n<?import javafx.scene.layout.Pane?>\r\n<?import javafx.scene.layout.VBox?>\r\n<?import javafx.scene.text.Font?>\r\n<?import javafx.scene.text.Text?>\r\n\r\n\r\n<AnchorPane maxHeight=\"-Infinity\" maxWidth=\"-Infinity\" minHeight=\"-Infinity\" minWidth=\"-Infinity\" prefHeight=\"420.0\" prefWidth=\"684.0\" style=\"-fx-background-color: white;\" xmlns=\"http://javafx.com/javafx/21\" xmlns:fx=\"http://javafx.com/fxml/1\" fx:controller=\"Controllers.WelcomeController\">\r\n   <children>\r\n      <VBox alignment=\"CENTER_LEFT\" prefHeight=\"200.0\" prefWidth=\"100.0\" />\r\n      <Button layoutX=\"391.0\" layoutY=\"270.0\" mnemonicParsing=\"false\" style=\"-fx-background-color: lightblue;\" text=\"Intruduction\">\r\n         <font>\r\n            <Font name=\"System Bold Italic\" size=\"12.0\" />\r\n         </font>\r\n      </Button>\r\n      <Text layoutX=\"251.0\" layoutY=\"168.0\" strokeType=\"OUTSIDE\" strokeWidth=\"0.0\" text=\"Ready to get started? Click on the &quot;Introduction&quot; button below to begin your journey into the world of encryption with the One-Round DES Algorithm!\" textAlignment=\"CENTER\" wrappingWidth=\"383.45713806152344\">\r\n         <font>\r\n            <Font name=\"System Italic\" size=\"14.0\" />\r\n         </font>\r\n      </Text>\r\n      <Pane prefHeight=\"420.0\" prefWidth=\"224.0\" style=\"-fx-background-color: #66afe9;\">\r\n         <children>\r\n            <Text fill=\"WHITE\" layoutX=\"30.0\" layoutY=\"149.0\" strokeType=\"OUTSIDE\" strokeWidth=\"0.0\" text=\"Welcome to the&#10; One-Round DES Algorithm \" wrappingWidth=\"164.79998168945303\">\r\n               <font>\r\n                  <Font size=\"23.0\" />\r\n               </font>\r\n            </Text>\r\n         </children>\r\n      </Pane>\r\n   </children>\r\n</AnchorPane>\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/resources/app/Welcome.fxml b/src/main/resources/app/Welcome.fxml
+--- a/src/main/resources/app/Welcome.fxml	(revision 1b7d2340b05e130b7b8add01bf012c2e242cbcff)
++++ b/src/main/resources/app/Welcome.fxml	(date 1716129208772)
+@@ -1,34 +1,34 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ 
+ <?import javafx.scene.control.Button?>
++<?import javafx.scene.control.Label?>
+ <?import javafx.scene.layout.AnchorPane?>
+-<?import javafx.scene.layout.Pane?>
+-<?import javafx.scene.layout.VBox?>
+ <?import javafx.scene.text.Font?>
+ <?import javafx.scene.text.Text?>
+ 
+-
+-<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="420.0" prefWidth="684.0" style="-fx-background-color: white;" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Controllers.WelcomeController">
+-   <children>
+-      <VBox alignment="CENTER_LEFT" prefHeight="200.0" prefWidth="100.0" />
+-      <Button layoutX="391.0" layoutY="270.0" mnemonicParsing="false" style="-fx-background-color: lightblue;" text="Intruduction">
+-         <font>
+-            <Font name="System Bold Italic" size="12.0" />
+-         </font>
+-      </Button>
+-      <Text layoutX="251.0" layoutY="168.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Ready to get started? Click on the &quot;Introduction&quot; button below to begin your journey into the world of encryption with the One-Round DES Algorithm!" textAlignment="CENTER" wrappingWidth="383.45713806152344">
+-         <font>
+-            <Font name="System Italic" size="14.0" />
+-         </font>
+-      </Text>
+-      <Pane prefHeight="420.0" prefWidth="224.0" style="-fx-background-color: #66afe9;">
+-         <children>
+-            <Text fill="WHITE" layoutX="30.0" layoutY="149.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Welcome to the&#10; One-Round DES Algorithm " wrappingWidth="164.79998168945303">
+-               <font>
+-                  <Font size="23.0" />
+-               </font>
+-            </Text>
+-         </children>
+-      </Pane>
+-   </children>
++<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="545.0" prefWidth="772.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Controllers.welcomeController">
++    <children>
++        <AnchorPane prefHeight="545.0" prefWidth="772.0" styleClass="main-form" stylesheets="@../css/css.css" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
++            <children>
++                <AnchorPane layoutY="26.0" prefHeight="95.0" prefWidth="773.0" styleClass="left-form" stylesheets="@../css/css.css">
++                    <children>
++                        <Text fill="WHITE" layoutX="142.0" layoutY="65.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Welcome to DES Round">
++                            <font>
++                                <Font name="Montserrat SemiBold" size="52.0" />
++                            </font>
++                        </Text>
++                    </children>
++                </AnchorPane>
++                <Label layoutX="101.0" layoutY="197.0" stylesheets="@../css/css.css" text="Instructions:" />
++                <Label layoutX="101.0" layoutY="225.0" stylesheets="@../css/css.css" text="Enter the left and right halves of the data, as well as the 48-bit subkey in binary format." />
++                <Label layoutX="101.0" layoutY="250.0" stylesheets="@../css/css.css" text="Each half must be 32 bits, and the subkey must be 48 bits." />
++                <Label layoutX="101.0" layoutY="275.0" stylesheets="@../css/css.css" text="After entering the data, click the 'Start' button to proceed." />
++                <Button fx:id="startButton" layoutX="270.0" layoutY="341.0" onAction="#startApplication" prefHeight="42.0" prefWidth="234.0" styleClass="custom-button" stylesheets="@../css/css.css" text="Start">
++                    <font>
++                        <Font name="Montserrat SemiBold" size="12.0" />
++                    </font>
++                </Button>
++            </children>
++        </AnchorPane>
++    </children>
+ </AnchorPane>
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ExternalStorageConfigurationManager\" enabled=\"true\" />\r\n  <component name=\"MavenProjectsManager\">\r\n    <option name=\"originalFiles\">\r\n      <list>\r\n        <option value=\"$PROJECT_DIR$/pom.xml\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"ProjectRootManager\" version=\"2\" languageLevel=\"JDK_21\" default=\"true\" project-jdk-name=\"openjdk-21\" project-jdk-type=\"JavaSDK\">\r\n    <output url=\"file://$PROJECT_DIR$/out\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/misc.xml b/.idea/misc.xml
+--- a/.idea/misc.xml	(revision 1b7d2340b05e130b7b8add01bf012c2e242cbcff)
++++ b/.idea/misc.xml	(date 1716129273710)
+@@ -8,7 +8,7 @@
+       </list>
+     </option>
+   </component>
+-  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="openjdk-21" project-jdk-type="JavaSDK">
++  <component name="ProjectRootManager" version="2" languageLevel="JDK_X" default="true" project-jdk-name="openjdk-21" project-jdk-type="JavaSDK">
+     <output url="file://$PROJECT_DIR$/out" />
+   </component>
+ </project>
+\ No newline at end of file

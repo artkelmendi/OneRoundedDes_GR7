@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="391ac223-163f-42d2-84a2-c576ee147136" name="Changes" comment="Finished README.md file">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Controllers/desroundController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Controllers/desroundController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/app/desround.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/app/desround.fxml" afterDir="false" />
+    <list default="true" id="391ac223-163f-42d2-84a2-c576ee147136" name="Changes" comment="Changes in the fxml and in the controllers.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/app/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -156,7 +155,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716120903267</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Changes in the fxml and in the controllers.">
+      <option name="closed" value="true" />
+      <created>1716133770052</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1716133770052</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -179,6 +186,7 @@
     <MESSAGE value="Added Welcoming Page" />
     <MESSAGE value="Added Navigator" />
     <MESSAGE value="Finished README.md file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished README.md file" />
+    <MESSAGE value="Changes in the fxml and in the controllers." />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes in the fxml and in the controllers." />
   </component>
 </project>

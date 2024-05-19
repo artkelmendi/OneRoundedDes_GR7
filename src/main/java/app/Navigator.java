@@ -26,10 +26,10 @@ public class Navigator {
             }
         }
 
-        public static void navigate(Event event, String page) {
-            Node node = (Node) event.getSource();
-            Stage stage = (Stage) node.getScene().getWindow();
-            navigate(stage, page);
-        }
+    public static void navigate(Event event, String page) {
+        Node node = (Node) event.getSource();
+        Stage stage = (Stage) node.getScene().getWindow();
+        navigate(stage, page);
+    }
     }
 

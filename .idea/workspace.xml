@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="391ac223-163f-42d2-84a2-c576ee147136" name="Changes" comment="The logic and the css 60% finished.">
+    <list default="true" id="391ac223-163f-42d2-84a2-c576ee147136" name="Changes" comment="Added Welcoming Page">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/css/css.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/css/css.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Controllers/WelcomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Controllers/WelcomeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/app/Navigator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/Navigator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/app/Welcome.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/app/Welcome.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,8 +133,35 @@
       <option name="project" value="LOCAL" />
       <updated>1715801667432</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Added Welcoming Page">
+      <option name="closed" value="true" />
+      <created>1716077925081</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1716077925081</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Added Welcoming Page">
+      <option name="closed" value="true" />
+      <created>1716078336942</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1716078336942</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -140,6 +169,7 @@
     <MESSAGE value="Testing//" />
     <MESSAGE value="Giving the code an idea on how it will look" />
     <MESSAGE value="The logic and the css 60% finished." />
-    <option name="LAST_COMMIT_MESSAGE" value="The logic and the css 60% finished." />
+    <MESSAGE value="Added Welcoming Page" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Welcoming Page" />
   </component>
 </project>

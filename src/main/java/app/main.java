@@ -9,7 +9,7 @@ public class main extends Application {
     @Override
     public void start(Stage stage) throws Exception {
         // Load Welcome Page initially
-        Parent root = FXMLLoader.load(getClass().getResource("/app/welcome.fxml"));
+        Parent root = FXMLLoader.load(getClass().getResource("/app/Welcome.fxml"));
         Scene scene = new Scene(root);
         stage.setScene(scene);
         stage.setTitle("Welcome to DES Round");

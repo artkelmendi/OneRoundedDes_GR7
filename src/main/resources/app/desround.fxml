@@ -4,16 +4,17 @@
 <?import javafx.scene.control.Label?>
 <?import javafx.scene.control.TextField?>
 <?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
 <?import javafx.scene.text.Font?>
 <?import javafx.scene.text.Text?>
 
 <AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="545.0" prefWidth="772.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Controllers.desroundController">
    <children>
-      <AnchorPane prefHeight="545.0" prefWidth="772.0" styleClass="main-form" stylesheets="@../css/css.css" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.topAnchor="0.0">
+      <AnchorPane prefHeight="545.0" prefWidth="772.0" styleClass="main-form" stylesheets="@../css/css.css" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.topAnchor="0.0" AnchorPane.rightAnchor="0.0">
          <children>
-            <AnchorPane layoutY="26.0" prefHeight="95.0" prefWidth="773.0" styleClass="left-form" stylesheets="@../css/css.css" AnchorPane.rightAnchor="0.0">
+            <AnchorPane layoutY="26.0" prefHeight="95.0" prefWidth="773.0" styleClass="left-form" stylesheets="@../css/css.css">
                <children>
-                  <Text fill="WHITE" layoutX="142.0" layoutY="65.0" strokeType="OUTSIDE" strokeWidth="0.0" text="One Rounded Des">
+                  <Text fill="WHITE" layoutX="142.0" layoutY="65.0" strokeType="OUTSIDE" strokeWidth="0.0" text="One Round DES">
                      <font>
                         <Font name="Montserrat SemiBold" size="52.0" />
                      </font>
@@ -43,6 +44,21 @@
                   <Text fx:id="rightOutputText" layoutX="107.0" layoutY="58.0" strokeType="OUTSIDE" strokeWidth="0.0" textAlignment="RIGHT" />
                </children>
             </AnchorPane>
+            <Pane fx:id="leftErrorPane" layoutX="183.0" layoutY="220.0" prefHeight="30.0" prefWidth="150.0" style="-fx-background-color: red;" visible="false">
+               <children>
+                  <Text fx:id="leftErrorText" fill="white" layoutX="10.0" layoutY="20.0" />
+               </children>
+            </Pane>
+            <Pane fx:id="rightErrorPane" layoutX="500.0" layoutY="220.0" prefHeight="30.0" prefWidth="150.0" style="-fx-background-color: red;" visible="false">
+               <children>
+                  <Text fx:id="rightErrorText" fill="white" layoutX="10.0" layoutY="20.0" />
+               </children>
+            </Pane>
+            <Pane fx:id="subkeyErrorPane" layoutX="303.0" layoutY="300.0" prefHeight="30.0" prefWidth="150.0" style="-fx-background-color: red;" visible="false">
+               <children>
+                  <Text fx:id="subkeyErrorText" fill="white" layoutX="10.0" layoutY="20.0" />
+               </children>
+            </Pane>
          </children>
       </AnchorPane>
    </children>

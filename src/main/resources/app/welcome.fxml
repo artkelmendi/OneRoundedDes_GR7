@@ -12,18 +12,30 @@
             <children>
                 <AnchorPane layoutY="26.0" prefHeight="95.0" prefWidth="773.0" styleClass="left-form" stylesheets="@../css/css.css">
                     <children>
-                        <Text fill="WHITE" layoutX="142.0" layoutY="65.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Welcome to DES Round">
+                        <Text fill="WHITE" layoutX="64.0" layoutY="65.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Welcome to DES Round">
                             <font>
                                 <Font name="Montserrat SemiBold" size="52.0" />
                             </font>
                         </Text>
                     </children>
                 </AnchorPane>
-                <Label layoutX="101.0" layoutY="197.0" stylesheets="@../css/css.css" text="Instructions:" />
-                <Label layoutX="101.0" layoutY="225.0" stylesheets="@../css/css.css" text="Enter the left and right halves of the data, as well as the 48-bit subkey in binary format." />
-                <Label layoutX="101.0" layoutY="250.0" stylesheets="@../css/css.css" text="Each half must be 32 bits, and the subkey must be 48 bits." />
-                <Label layoutX="101.0" layoutY="275.0" stylesheets="@../css/css.css" text="After entering the data, click the 'Start' button to proceed." />
-                <Button fx:id="startButton" layoutX="270.0" layoutY="341.0" onAction="#startApplication" prefHeight="42.0" prefWidth="234.0" styleClass="custom-button" stylesheets="@../css/css.css" text="Start">
+                <Label layoutX="55.0" layoutY="175.0" stylesheets="@../css/css.css" text="Instructions:">
+               <font>
+                  <Font name="Montserrat SemiBold" size="19.0" />
+               </font></Label>
+                <Label layoutX="55.0" layoutY="232.0" stylesheets="@../css/css.css" text="Enter the left and right halves of the data, as well as the 48-bit subkey in binary format.">
+               <font>
+                  <Font name="Montserrat Medium" size="15.0" />
+               </font></Label>
+                <Label layoutX="56.0" layoutY="268.0" stylesheets="@../css/css.css" text="Each half must be 32 bits, and the subkey must be 48 bits.">
+               <font>
+                  <Font name="Montserrat Medium" size="15.0" />
+               </font></Label>
+                <Label layoutX="56.0" layoutY="307.0" stylesheets="@../css/css.css" text="After entering the data, click the 'Start' button to proceed.">
+               <font>
+                  <Font name="Montserrat Medium" size="15.0" />
+               </font></Label>
+                <Button fx:id="startButton" layoutX="269.0" layoutY="432.0" onAction="#startApplication" prefHeight="42.0" prefWidth="234.0" styleClass="custom-button" stylesheets="@../css/css.css" text="Start">
                     <font>
                         <Font name="Montserrat SemiBold" size="12.0" />
                     </font>
